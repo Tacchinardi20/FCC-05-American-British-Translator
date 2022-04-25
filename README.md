@@ -1,2 +1,1 @@
-# FCC-05-American-British-Translator
-freeCodeCamp-Quality-Assurance-Projects-05-American British Translator
+# [Quality Assurance Projects - American / British Translator](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/american-british-translator)
